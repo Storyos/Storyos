@@ -1,5 +1,4 @@
 <div align="center">
-  <img width="800px" src="https://github.com/j-nary/j-nary/blob/master/logo_unscreen.gif" />
   <img src="https://github-readme-stats.vercel.app/api?username=storyos&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=storyos&layout=compact" />
 </div>
