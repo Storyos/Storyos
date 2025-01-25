@@ -58,19 +58,11 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@jnary">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  <a href="https://github.com/storyos">
+    <img src="https://img.shields.io/badge/Github-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="20212908@soongsil.ac.kr">
+  <a href="storyoser@naver.com">
     <img
-      src="https://img.shields.io/badge/20212908@soongsil.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
-  </a>
-  <a href="https://blog.naver.com/j_nary">
-    <img
-      src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
-  </a>
-  <a href="https://www.instagram.com/j_naary/">
-    <img
-      src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/storyoser@naver.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
   </a>
 </div>
