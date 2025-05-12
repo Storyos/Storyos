@@ -42,11 +42,3 @@
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://github.com/storyos">
-    <img src="https://img.shields.io/badge/Github-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-    <img
-      src="https://img.shields.io/badge/storyoser@naver.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
-</div>
