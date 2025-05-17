@@ -12,7 +12,7 @@
 
 ---
 <br/>
-<h3 align="center">📘 알고리즘</h3>
+<h3 align="center">📘 Algorithm</h3>
 
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=storyoser"/>
